@@ -1,0 +1,5 @@
+127.0.0.1 - - [29/Sep/2021:17:22:27 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:17:22:28 +0530] "GET /NewBikeServer/ HTTP/1.1" 200 198
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:17:22:28 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+127.0.0.1 - - [29/Sep/2021:17:23:04 +0530] "POST /NewBikeServer/userdata/login HTTP/1.1" 500 5426
+127.0.0.1 - - [29/Sep/2021:17:23:13 +0530] "POST /NewBikeServer/userdata/login HTTP/1.1" 200 349

@@ -1,0 +1,5 @@
+jdbc.driver=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://localhost:3306/mybike?useSSL=false
+jdbc.username=root
+jdbc.password=Vishal@11
+jdbc.dialect=org.hibernate.dialect.MySQLDialect
